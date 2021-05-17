@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+1- using api with dio package
+
+2- using bloc state management
+
+3- using shared preference package
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
